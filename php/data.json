@@ -1,0 +1,1454 @@
+[
+   {
+      "Lugar":1,
+      "País/território":"Japão Japão",
+      "Cidade capital":"Tóquio (de facto)",
+      "População da cidade":13185502
+   },
+   {
+      "Lugar":2,
+      "País/território":"Coreia do Sul Coreia do Sul",
+      "Cidade capital":"Seul",
+      "População da cidade":10464051
+   },
+   {
+      "Lugar":3,
+      "País/território":"Rússia Rússia",
+      "Cidade capital":"Moscovo",
+      "População da cidade":10126424
+   },
+   {
+      "Lugar":4,
+      "País/território":"Irão Irão",
+      "Cidade capital":"Teerão",
+      "População da cidade":9110347
+   },
+   {
+      "Lugar":5,
+      "País/território":"México México",
+      "Cidade capital":"Cidade do México",
+      "População da cidade":8841916
+   },
+   {
+      "Lugar":6,
+      "País/território":"Indonésia Indonésia",
+      "Cidade capital":"Jacarta",
+      "População da cidade":8489910
+   },
+   {
+      "Lugar":7,
+      "País/território":"Peru Peru",
+      "Cidade capital":"Lima",
+      "População da cidade":7866160
+   },
+   {
+      "Lugar":8,
+      "País/território":"China República Popular da China",
+      "Cidade capital":"Pequim",
+      "População da cidade":7741274
+   },
+   {
+      "Lugar":9,
+      "País/território":"Egito Egito",
+      "Cidade capital":"Cairo",
+      "População da cidade":7438376
+   },
+   {
+      "Lugar":10,
+      "País/território":"Reino Unido Reino Unido",
+      "Cidade capital":"Londres",
+      "População da cidade":7287555
+   },
+   {
+      "Lugar":11,
+      "País/território":"Colômbia Colômbia",
+      "Cidade capital":"Bogotá",
+      "População da cidade":7220971
+   },
+   {
+      "Lugar":12,
+      "País/território":"Iraque Iraque",
+      "Cidade capital":"Bagdade",
+      "População da cidade":7216040
+   },
+   {
+      "Lugar":13,
+      "País/território":"Hong Kong Honguecongue (China)",
+      "Cidade capital":"Honguecongue",
+      "População da cidade":6752001
+   },
+   {
+      "Lugar":14,
+      "País/território":"Tailândia Tailândia",
+      "Cidade capital":"Banguecoque",
+      "População da cidade":6542751
+   },
+   {
+      "Lugar":15,
+      "País/território":"Bangladesh Bangladexe",
+      "Cidade capital":"Daca",
+      "População da cidade":6080671
+   },
+   {
+      "Lugar":16,
+      "País/território":"Arábia Saudita Arábia Saudita",
+      "Cidade capital":"Riade",
+      "População da cidade":5318636
+   },
+   {
+      "Lugar":17,
+      "País/território":"Chile Chile",
+      "Cidade capital":"Santiago",
+      "População da cidade":5012973
+   },
+   {
+      "Lugar":18,
+      "País/território":"Turquia Turquia",
+      "Cidade capital":"Ancara",
+      "População da cidade":4431719
+   },
+   {
+      "Lugar":19,
+      "País/território":"Singapura Singapura",
+      "Cidade capital":"Singapura",
+      "População da cidade":4408220
+   },
+   {
+      "Lugar":20,
+      "País/território":"República Democrática do Congo República Democrática do Congo",
+      "Cidade capital":"Quinxasa",
+      "População da cidade":4385264
+   },
+   {
+      "Lugar":21,
+      "País/território":"Síria Síria",
+      "Cidade capital":"Damasco",
+      "População da cidade":3500000
+   },
+   {
+      "Lugar":22,
+      "País/território":"Alemanha Alemanha",
+      "Cidade capital":"Berlim",
+      "População da cidade":3405250
+   },
+   {
+      "Lugar":23,
+      "País/território":"Vietname Vietname",
+      "Cidade capital":"Hanói",
+      "População da cidade":3398889
+   },
+   {
+      "Lugar":24,
+      "País/território":"Espanha Espanha",
+      "Cidade capital":"Madrid",
+      "População da cidade":3232463
+   },
+   {
+      "Lugar":25,
+      "País/território":"Coreia do Norte Coreia do Norte",
+      "Cidade capital":"Pionguiangue",
+      "População da cidade":3144005
+   },
+   {
+      "Lugar":26,
+      "País/território":"Afeganistão Afeganistão",
+      "Cidade capital":"Cabul",
+      "População da cidade":3140853
+   },
+   {
+      "Lugar":27,
+      "País/território":"Argentina Argentina",
+      "Cidade capital":"Buenos Aires",
+      "População da cidade":3021865
+   },
+   {
+      "Lugar":28,
+      "País/território":"Etiópia Etiópia",
+      "Cidade capital":"Adis Abeba",
+      "População da cidade":2737479
+   },
+   {
+      "Lugar":29,
+      "País/território":"Quénia Quénia",
+      "Cidade capital":"Nairóbi",
+      "População da cidade":2665657
+   },
+   {
+      "Lugar":30,
+      "País/território":"República da China República da China (Taiuã)",
+      "Cidade capital":"Taipé",
+      "População da cidade":2619920
+   },
+   {
+      "Lugar":31,
+      "País/território":"Brasil Brasil",
+      "Cidade capital":"Brasília",
+      "População da cidade":2606885
+   },
+   {
+      "Lugar":32,
+      "País/território":"Jordânia Jordânia",
+      "Cidade capital":"Amã",
+      "População da cidade":2600603
+   },
+   {
+      "Lugar":33,
+      "País/território":"Ucrânia Ucrânia",
+      "Cidade capital":"Quieve",
+      "População da cidade":2591277
+   },
+   {
+      "Lugar":34,
+      "País/território":"Itália Itália",
+      "Cidade capital":"Roma",
+      "População da cidade":2503056
+   },
+   {
+      "Lugar":35,
+      "País/território":"Angola Angola",
+      "Cidade capital":"Luanda",
+      "População da cidade":2453779
+   },
+   {
+      "Lugar":36,
+      "País/território":"África do Sul África do Sul",
+      "Cidade capital":"Pretória",
+      "População da cidade":2345908
+   },
+   {
+      "Lugar":37,
+      "País/território":"Cuba Cuba",
+      "Cidade capital":"Havana",
+      "População da cidade":2236837
+   },
+   {
+      "Lugar":38,
+      "País/território":"Uzbequistão Usbequistão",
+      "Cidade capital":"Tasquente",
+      "População da cidade":2207850
+   },
+   {
+      "Lugar":39,
+      "País/território":"Azerbaijão Azerbaijão",
+      "Cidade capital":"Bacu",
+      "População da cidade":2204200
+   },
+   {
+      "Lugar":40,
+      "País/território":"França França",
+      "Cidade capital":"Paris",
+      "População da cidade":2103674
+   },
+   {
+      "Lugar":41,
+      "País/território":"Roménia Roménia",
+      "Cidade capital":"Bucareste",
+      "População da cidade":1942254
+   },
+   {
+      "Lugar":42,
+      "País/território":"República Dominicana República Dominicana",
+      "Cidade capital":"São Domingos",
+      "População da cidade":1875453
+   },
+   {
+      "Lugar":43,
+      "País/território":"Venezuela Venezuela",
+      "Cidade capital":"Caracas",
+      "População da cidade":1838939
+   },
+   {
+      "Lugar":44,
+      "País/território":"Marrocos Marrocos",
+      "Cidade capital":"Rabat",
+      "População da cidade":1789635
+   },
+   {
+      "Lugar":45,
+      "País/território":"Sudão Sudão",
+      "Cidade capital":"Cartum",
+      "População da cidade":1740661
+   },
+   {
+      "Lugar":46,
+      "País/território":"Hungria Hungria",
+      "Cidade capital":"Budapeste",
+      "População da cidade":1728718
+   },
+   {
+      "Lugar":47,
+      "País/território":"Polónia Polónia",
+      "Cidade capital":"Varsóvia",
+      "População da cidade":1706724
+   },
+   {
+      "Lugar":48,
+      "País/território":"Bielorrússia Bielorrússia",
+      "Cidade capital":"Minsque",
+      "População da cidade":1702061
+   },
+   {
+      "Lugar":49,
+      "País/território":"Filipinas Filipinas",
+      "Cidade capital":"Manila",
+      "População da cidade":1660714
+   },
+   {
+      "Lugar":50,
+      "País/território":"Uganda Uganda",
+      "Cidade capital":"Campala",
+      "População da cidade":1659600
+   },
+   {
+      "Lugar":51,
+      "País/território":"Gana Gana",
+      "Cidade capital":"Acra",
+      "População da cidade":1640507
+   },
+   {
+      "Lugar":52,
+      "País/território":"Camarões Camarões",
+      "Cidade capital":"Iaundé",
+      "População da cidade":1616000
+   },
+   {
+      "Lugar":53,
+      "País/território":"Madagáscar Madagáscar",
+      "Cidade capital":"Antananarivo",
+      "População da cidade":1613375
+   },
+   {
+      "Lugar":54,
+      "País/território":"Líbano Líbano",
+      "Cidade capital":"Beirute",
+      "População da cidade":1574387
+   },
+   {
+      "Lugar":55,
+      "País/território":"Áustria Áustria",
+      "Cidade capital":"Viena",
+      "População da cidade":1552789
+   },
+   {
+      "Lugar":56,
+      "País/território":"Argélia Argélia",
+      "Cidade capital":"Argel",
+      "População da cidade":1518083
+   },
+   {
+      "Lugar":57,
+      "País/território":"Equador Equador",
+      "Cidade capital":"Quito",
+      "População da cidade":1504991
+   },
+   {
+      "Lugar":58,
+      "País/território":"Zimbabwe Zimbábue",
+      "Cidade capital":"Harare",
+      "População da cidade":1487028
+   },
+   {
+      "Lugar":59,
+      "País/território":"Iémen Iémen",
+      "Cidade capital":"Saná",
+      "População da cidade":1431649
+   },
+   {
+      "Lugar":60,
+      "País/território":"Guiné Guiné",
+      "Cidade capital":"Conacri",
+      "População da cidade":1399981
+   },
+   {
+      "Lugar":61,
+      "País/território":"Malásia Malásia",
+      "Cidade capital":"Cualalampur",
+      "População da cidade":1381830
+   },
+   {
+      "Lugar":62,
+      "País/território":"Uruguai Uruguai",
+      "Cidade capital":"Montevideu",
+      "População da cidade":1369797
+   },
+   {
+      "Lugar":63,
+      "País/território":"Zâmbia Zâmbia",
+      "Cidade capital":"Lusaca",
+      "População da cidade":1331254
+   },
+   {
+      "Lugar":64,
+      "País/território":"Somalilândia Somalilândia",
+      "Cidade capital":"Hargeisa",
+      "População da cidade":1300000
+   },
+   {
+      "Lugar":65,
+      "País/território":"Mali Mali",
+      "Cidade capital":"Bamaco",
+      "População da cidade":1289626
+   },
+   {
+      "Lugar":66,
+      "País/território":"Haiti Haiti",
+      "Cidade capital":"Porto Príncipe",
+      "População da cidade":1235227
+   },
+   {
+      "Lugar":67,
+      "País/território":"República Checa República Checa",
+      "Cidade capital":"Praga",
+      "População da cidade":1227332
+   },
+   {
+      "Lugar":68,
+      "País/território":"Líbia Líbia",
+      "Cidade capital":"Trípoli",
+      "População da cidade":1184045
+   },
+   {
+      "Lugar":69,
+      "País/território":"Kuwait Cuaite",
+      "Cidade capital":"Cidade do Cuaite",
+      "População da cidade":1171880
+   },
+   {
+      "Lugar":70,
+      "País/território":"Sérvia Sérvia",
+      "Cidade capital":"Belgrado",
+      "População da cidade":1154589
+   },
+   {
+      "Lugar":71,
+      "País/território":"Somália Somália",
+      "Cidade capital":"Mogadíscio",
+      "População da cidade":1097133
+   },
+   {
+      "Lugar":72,
+      "País/território":"Bulgária Bulgária",
+      "Cidade capital":"Sófia",
+      "População da cidade":1090295
+   },
+   {
+      "Lugar":73,
+      "País/território":"República Democrática do Congo República do Congo",
+      "Cidade capital":"Brazavile",
+      "População da cidade":1088044
+   },
+   {
+      "Lugar":74,
+      "País/território":"Bélgica Bélgica",
+      "Cidade capital":"Bruxelas",
+      "População da cidade":1080790
+   },
+   {
+      "Lugar":75,
+      "País/território":"Arménia Arménia",
+      "Cidade capital":"Erevã",
+      "População da cidade":1080487
+   },
+   {
+      "Lugar":76,
+      "País/território":"Moçambique Moçambique",
+      "Cidade capital":"Maputo",
+      "População da cidade":1076689
+   },
+   {
+      "Lugar":77,
+      "País/território":"Serra Leoa Serra Leoa",
+      "Cidade capital":"Freetown",
+      "População da cidade":1070200
+   },
+   {
+      "Lugar":78,
+      "País/território":"Geórgia Geórgia",
+      "Cidade capital":"Tbilissi",
+      "População da cidade":1044993
+   },
+   {
+      "Lugar":79,
+      "País/território":"Senegal Senegal",
+      "Cidade capital":"Dacar",
+      "População da cidade":1030594
+   },
+   {
+      "Lugar":80,
+      "País/território":"Burkina Faso Burquina Faso",
+      "Cidade capital":"Uagadugu",
+      "População da cidade":1005231
+   },
+   {
+      "Lugar":81,
+      "País/território":"República da Irlanda Irlanda",
+      "Cidade capital":"Dublim",
+      "População da cidade":1045769
+   },
+   {
+      "Lugar":82,
+      "País/território":"Libéria Libéria",
+      "Cidade capital":"Monróvia",
+      "População da cidade":1010970
+   },
+   {
+      "Lugar":83,
+      "País/território":"Guatemala Guatemala",
+      "Cidade capital":"Cidade da Guatemala",
+      "População da cidade":1103865
+   },
+   {
+      "Lugar":84,
+      "País/território":"Paquistão Paquistão",
+      "Cidade capital":"Islamabade",
+      "População da cidade":955629
+   },
+   {
+      "Lugar":85,
+      "País/território":"Nicarágua Nicarágua",
+      "Cidade capital":"Manágua",
+      "População da cidade":926883
+   },
+   {
+      "Lugar":86,
+      "País/território":"Myanmar Mianmar",
+      "Cidade capital":"Nepiedó",
+      "População da cidade":925000
+   },
+   {
+      "Lugar":87,
+      "País/território":"Mongólia Mongólia",
+      "Cidade capital":"Ulã Bator",
+      "População da cidade":907802
+   },
+   {
+      "Lugar":88,
+      "País/território":"Malawi Maláui",
+      "Cidade capital":"Lilongué",
+      "População da cidade":902388
+   },
+   {
+      "Lugar":89,
+      "País/território":"Canadá Canadá",
+      "Cidade capital":"Otava",
+      "População da cidade":898150
+   },
+   {
+      "Lugar":90,
+      "País/território":"Bolívia Bolívia",
+      "Cidade capital":"La Paz",
+      "População da cidade":877363
+   },
+   {
+      "Lugar":91,
+      "País/território":"Quirguistão Quirguistão",
+      "Cidade capital":"Bisqueque",
+      "População da cidade":843240
+   },
+   {
+      "Lugar":92,
+      "País/território":"Togo Togo",
+      "Cidade capital":"Lomé",
+      "População da cidade":824738
+   },
+   {
+      "Lugar":93,
+      "País/território":"Panamá Panamá",
+      "Cidade capital":"Cidade do Panamá",
+      "População da cidade":813097
+   },
+   {
+      "Lugar":94,
+      "País/território":"Nepal Nepal",
+      "Cidade capital":"Catmandu",
+      "População da cidade":812026
+   },
+   {
+      "Lugar":95,
+      "País/território":"Omã Omã",
+      "Cidade capital":"Mascate",
+      "População da cidade":797000
+   },
+   {
+      "Lugar":96,
+      "País/território":"Níger Níger",
+      "Cidade capital":"Niamei",
+      "População da cidade":794814
+   },
+   {
+      "Lugar":97,
+      "País/território":"Nigéria Nigéria",
+      "Cidade capital":"Abuja",
+      "População da cidade":778567
+   },
+   {
+      "Lugar":98,
+      "País/território":"Suécia Suécia",
+      "Cidade capital":"Estocolmo",
+      "População da cidade":770284
+   },
+   {
+      "Lugar":99,
+      "País/território":"Tunísia Tunísia",
+      "Cidade capital":"Tunes",
+      "População da cidade":767629
+   },
+   {
+      "Lugar":100,
+      "País/território":"Turquemenistão Turcomenistão",
+      "Cidade capital":"Asgabate",
+      "População da cidade":763537
+   },
+   {
+      "Lugar":101,
+      "País/território":"Chade Chade",
+      "Cidade capital":"Jamena",
+      "População da cidade":751288
+   },
+   {
+      "Lugar":102,
+      "País/território":"Israel Israel",
+      "Cidade capital":"Jerusalém[18]",
+      "População da cidade":780200
+   },
+   {
+      "Lugar":103,
+      "País/território":"Países Baixos Países Baixos",
+      "Cidade capital":"Amesterdão",
+      "População da cidade":740094
+   },
+   {
+      "Lugar":104,
+      "País/território":"Honduras Honduras",
+      "Cidade capital":"Tegucigalpa",
+      "População da cidade":735982
+   },
+   {
+      "Lugar":105,
+      "País/território":"República Centro-Africana República Centro-Africana",
+      "Cidade capital":"Bangui",
+      "População da cidade":731548
+   },
+   {
+      "Lugar":106,
+      "País/território":"Grécia Grécia",
+      "Cidade capital":"Atenas",
+      "População da cidade":721477
+   },
+   {
+      "Lugar":107,
+      "País/território":"Mauritânia Mauritânia",
+      "Cidade capital":"Nuaquechote",
+      "População da cidade":719167
+   },
+   {
+      "Lugar":108,
+      "País/território":"Ruanda Ruanda",
+      "Cidade capital":"Quigali",
+      "População da cidade":718414
+   },
+   {
+      "Lugar":109,
+      "País/território":"Letónia Letónia",
+      "Cidade capital":"Riga",
+      "População da cidade":713016
+   },
+   {
+      "Lugar":110,
+      "País/território":"Jamaica Jamaica",
+      "Cidade capital":"Kingston",
+      "População da cidade":701063
+   },
+   {
+      "Lugar":111,
+      "País/território":"Cazaquistão Cazaquistão",
+      "Cidade capital":"Astana",
+      "População da cidade":700000
+   },
+   {
+      "Lugar":112,
+      "País/território":"Croácia Croácia",
+      "Cidade capital":"Zagrebe",
+      "População da cidade":804200
+   },
+   {
+      "Lugar":113,
+      "País/território":"Camboja Camboja",
+      "Cidade capital":"Pnom Pen",
+      "População da cidade":650651
+   },
+   {
+      "Lugar":114,
+      "País/território":"Estados Unidos Estados Unidos",
+      "Cidade capital":"Washington, D.C.",
+      "População da cidade":601723
+   },
+   {
+      "Lugar":115,
+      "País/território":"Moldávia Moldávia",
+      "Cidade capital":"Quixinau",
+      "População da cidade":592900
+   },
+   {
+      "Lugar":116,
+      "País/território":"Err:509",
+      "Cidade capital":"Abu Dabi",
+      "População da cidade":585097
+   },
+   {
+      "Lugar":117,
+      "País/território":"Tajiquistão Tajiquistão",
+      "Cidade capital":"Duchambé",
+      "População da cidade":582496
+   },
+   {
+      "Lugar":118,
+      "País/território":"Finlândia Finlândia",
+      "Cidade capital":"Helsínquia",
+      "População da cidade":568676
+   },
+   {
+      "Lugar":119,
+      "País/território":"Lituânia Lituânia",
+      "Cidade capital":"Vílnius",
+      "População da cidade":556723
+   },
+   {
+      "Lugar":120,
+      "País/território":"Gabão Gabão",
+      "Cidade capital":"Librevile",
+      "População da cidade":556425
+   },
+   {
+      "Lugar":121,
+      "País/território":"Eritreia Eritreia",
+      "Cidade capital":"Asmara",
+      "População da cidade":543707
+   },
+   {
+      "Lugar":122,
+      "País/território":"Noruega Noruega",
+      "Cidade capital":"Oslo",
+      "População da cidade":575475
+   },
+   {
+      "Lugar":123,
+      "País/território":"Portugal Portugal",
+      "Cidade capital":"Lisboa",
+      "População da cidade":564657
+   },
+   {
+      "Lugar":124,
+      "País/território":"El Salvador Salvador",
+      "Cidade capital":"São Salvador",
+      "População da cidade":521366
+   },
+   {
+      "Lugar":125,
+      "País/território":"Paraguai Paraguai",
+      "Cidade capital":"Assunção",
+      "População da cidade":520722
+   },
+   {
+      "Lugar":126,
+      "País/território":"Macau Macau (China)",
+      "Cidade capital":"Macau",
+      "População da cidade":520400
+   },
+   {
+      "Lugar":127,
+      "País/território":"República da Macedónia Macedónia",
+      "Cidade capital":"Escópia",
+      "População da cidade":506926
+   },
+   {
+      "Lugar":128,
+      "País/território":"Dinamarca Dinamarca",
+      "Cidade capital":"Copenhaga",
+      "População da cidade":506166
+   },
+   {
+      "Lugar":129,
+      "País/território":"Djibouti Jibuti",
+      "Cidade capital":"Jibuti",
+      "População da cidade":475332
+   },
+   {
+      "Lugar":130,
+      "País/território":"Costa do Marfim Costa do Marfim",
+      "Cidade capital":"Iamussucro",
+      "População da cidade":454929
+   },
+   {
+      "Lugar":132,
+      "País/território":"Guiné-Bissau Guiné-Bissau",
+      "Cidade capital":"Bissau",
+      "População da cidade":452640
+   },
+   {
+      "Lugar":132,
+      "País/território":"Eslováquia Eslováquia",
+      "Cidade capital":"Bratislava",
+      "População da cidade":424207
+   },
+   {
+      "Lugar":133,
+      "País/território":"Porto Rico Porto Rico (EUA)",
+      "Cidade capital":"São João",
+      "População da cidade":421356
+   },
+   {
+      "Lugar":134,
+      "País/território":"Estónia Estónia",
+      "Cidade capital":"Talim",
+      "População da cidade":403547
+   },
+   {
+      "Lugar":135,
+      "País/território":"Burundi Burúndi",
+      "Cidade capital":"Bujumbura",
+      "População da cidade":384461
+   },
+   {
+      "Lugar":136,
+      "País/território":"Bósnia e Herzegovina Bósnia e Herzegovina",
+      "Cidade capital":"Saraievo",
+      "População da cidade":383604
+   },
+   {
+      "Lugar":137,
+      "País/território":"Nova Zelândia Nova Zelândia",
+      "Cidade capital":"Wellington",
+      "População da cidade":381900
+   },
+   {
+      "Lugar":138,
+      "País/território":"Albânia Albânia",
+      "Cidade capital":"Tirana",
+      "População da cidade":376642
+   },
+   {
+      "Lugar":139,
+      "País/território":"Austrália Austrália",
+      "Cidade capital":"Camberra",
+      "População da cidade":354644
+   },
+   {
+      "Lugar":140,
+      "País/território":"Costa Rica Costa Rica",
+      "Cidade capital":"São José",
+      "População da cidade":328195
+   },
+   {
+      "Lugar":141,
+      "País/território":"Catar Catar",
+      "Cidade capital":"Doa",
+      "População da cidade":303429
+   },
+   {
+      "Lugar":142,
+      "País/território":"Índia Índia",
+      "Cidade capital":"Nova Deli",
+      "População da cidade":292300
+   },
+   {
+      "Lugar":143,
+      "País/território":"Papua-Nova Guiné Papua Nova Guiné",
+      "Cidade capital":"Porto Moresby",
+      "População da cidade":299396
+   },
+   {
+      "Lugar":144,
+      "País/território":"Tanzânia Tanzânia",
+      "Cidade capital":"Dodoma",
+      "População da cidade":287200
+   },
+   {
+      "Lugar":145,
+      "País/território":"Laos Laus",
+      "Cidade capital":"Vienciana",
+      "População da cidade":287579
+   },
+   {
+      "Lugar":146,
+      "País/território":"Chipre Chipre",
+      "Cidade capital":"Nicósia (sul)",
+      "População da cidade":270000
+   },
+   {
+      "Lugar":147,
+      "País/território":"Lesoto Lesoto",
+      "Cidade capital":"Maseru",
+      "População da cidade":267652
+   },
+   {
+      "Lugar":148,
+      "País/território":"Eslovénia Eslovénia",
+      "Cidade capital":"Liubliana",
+      "População da cidade":264265
+   },
+   {
+      "Lugar":149,
+      "País/território":"Suriname Suriname",
+      "Cidade capital":"Paramaribo",
+      "População da cidade":254147
+   },
+   {
+      "Lugar":150,
+      "País/território":"Namíbia Namíbia",
+      "Cidade capital":"Vinduque",
+      "População da cidade":252721
+   },
+   {
+      "Lugar":151,
+      "País/território":"Bahamas Baamas",
+      "Cidade capital":"Nassau",
+      "População da cidade":248948
+   },
+   {
+      "Lugar":152,
+      "País/território":"Botsuana Botsuana",
+      "Cidade capital":"Gaborone",
+      "População da cidade":225656
+   },
+   {
+      "Lugar":153,
+      "País/território":"Benim Benim",
+      "Cidade capital":"Porto-Novo",
+      "População da cidade":223552
+   },
+   {
+      "Lugar":155,
+      "País/território":"Saara Ocidental República Árabe Saariana Democrática",
+      "Cidade capital":"El Aiune",
+      "População da cidade":194668
+   },
+   {
+      "Lugar":156,
+      "País/território":"Transnístria Transdniéstria",
+      "Cidade capital":"Tiraspol",
+      "População da cidade":159163
+   },
+   {
+      "Lugar":157,
+      "País/território":"Maurícia Maurícia",
+      "Cidade capital":"Porto Luís",
+      "População da cidade":147251
+   },
+   {
+      "Lugar":158,
+      "País/território":"Montenegro Montenegro",
+      "Cidade capital":"Podgoritsa",
+      "População da cidade":141854
+   },
+   {
+      "Lugar":159,
+      "País/território":"Bahrain Barém",
+      "Cidade capital":"Manama",
+      "População da cidade":140616
+   },
+   {
+      "Lugar":160,
+      "País/território":"Guiana Guiana",
+      "Cidade capital":"Georgetown",
+      "População da cidade":134599
+   },
+   {
+      "Lugar":161,
+      "País/território":"Cabo Verde Cabo Verde",
+      "Cidade capital":"Praia",
+      "População da cidade":125464
+   },
+   {
+      "Lugar":162,
+      "País/território":"Suíça Suíça",
+      "Cidade capital":"Berna (de facto)",
+      "População da cidade":121631
+   },
+   {
+      "Lugar":163,
+      "País/território":"Sri Lanka Sri Lanca",
+      "Cidade capital":"Sri Jayawardenapura-Kotte",
+      "População da cidade":118556
+   },
+   {
+      "Lugar":164,
+      "País/território":"Islândia Islândia",
+      "Cidade capital":"Reiquiavique",
+      "População da cidade":115000
+   },
+   {
+      "Lugar":165,
+      "País/território":"Maldivas Maldivas",
+      "Cidade capital":"Malé",
+      "População da cidade":103693
+   },
+   {
+      "Lugar":166,
+      "País/território":"Butão Butão",
+      "Cidade capital":"Timbu",
+      "População da cidade":101259
+   },
+   {
+      "Lugar":167,
+      "País/território":"Guiné Equatorial Guiné Equatorial",
+      "Cidade capital":"Malabo",
+      "População da cidade":100677
+   },
+   {
+      "Lugar":168,
+      "País/território":"Barbados Barbados",
+      "Cidade capital":"Bridgetown",
+      "População da cidade":96578
+   },
+   {
+      "Lugar":159,
+      "País/território":"Nova Caledónia Nova Caledónia (França)",
+      "Cidade capital":"Numea",
+      "População da cidade":89207
+   },
+   {
+      "Lugar":170,
+      "País/território":"República Turca de Chipre do Norte Chipre do Norte",
+      "Cidade capital":"Nicósia (norte)",
+      "População da cidade":84893
+   },
+   {
+      "Lugar":171,
+      "País/território":"Fiji Fiji",
+      "Cidade capital":"Suva",
+      "População da cidade":84410
+   },
+   {
+      "Lugar":172,
+      "País/território":"Suazilândia Suazilândia",
+      "Cidade capital":"Babane",
+      "População da cidade":81594
+   },
+   {
+      "Lugar":173,
+      "País/território":"Luxemburgo Luxemburgo",
+      "Cidade capital":"Luxemburgo",
+      "População da cidade":76420
+   },
+   {
+      "Lugar":174,
+      "País/território":"Marianas Setentrionais Ilhas Marianas Setentrionais (EUA)",
+      "Cidade capital":"Saipã",
+      "População da cidade":62392
+   },
+   {
+      "Lugar":175,
+      "País/território":"Comores Comores",
+      "Cidade capital":"Moroni",
+      "População da cidade":60200
+   },
+   {
+      "Lugar":176,
+      "País/território":"Ilhas Salomão Ilhas Salomão",
+      "Cidade capital":"Honiara",
+      "População da cidade":59288
+   },
+   {
+      "Lugar":177,
+      "País/território":"Timor-Leste Timor-Leste",
+      "Cidade capital":"Díli",
+      "População da cidade":59069
+   },
+   {
+      "Lugar":178,
+      "País/território":"Santa Lúcia Santa Lúcia",
+      "Cidade capital":"Castries",
+      "População da cidade":57000
+   },
+   {
+      "Lugar":179,
+      "País/território":"São Tomé e Príncipe São Tomé e Príncipe",
+      "Cidade capital":"São Tomé",
+      "População da cidade":56166
+   },
+   {
+      "Lugar":180,
+      "País/território":"Samoa Americana Samoa Americana (EUA)",
+      "Cidade capital":"Pago Pago",
+      "População da cidade":52000
+   },
+   {
+      "Lugar":181,
+      "País/território":"Trinidad e Tobago Trindade e Tobago",
+      "Cidade capital":"Porto de Espanha",
+      "População da cidade":50479
+   },
+   {
+      "Lugar":182,
+      "País/território":"República de Nagorno-Karabakh Alto Carabaque",
+      "Cidade capital":"Stepanakert",
+      "População da cidade":49986
+   },
+   {
+      "Lugar":183,
+      "País/território":"Curaçao Curação (Países Baixos)",
+      "Cidade capital":"Willemstad",
+      "População da cidade":49885
+   },
+   {
+      "Lugar":184,
+      "País/território":"Abecásia Abecásia",
+      "Cidade capital":"Sukhumi",
+      "População da cidade":43700
+   },
+   {
+      "Lugar":185,
+      "País/território":"Samoa Samoa",
+      "Cidade capital":"Apia",
+      "População da cidade":39813
+   },
+   {
+      "Lugar":186,
+      "País/território":"Vanuatu Vanuatu",
+      "Cidade capital":"Porto Vila",
+      "População da cidade":38000
+   },
+   {
+      "Lugar":187,
+      "País/território":"Mónaco Mónaco",
+      "Cidade capital":"Mónaco",
+      "População da cidade":35986
+   },
+   {
+      "Lugar":188,
+      "País/território":"Gâmbia Gâmbia",
+      "Cidade capital":"Banjul",
+      "População da cidade":34828
+   },
+   {
+      "Lugar":189,
+      "País/território":"Kiribati Quiribáti",
+      "Cidade capital":"Tarawa",
+      "População da cidade":30000
+   },
+   {
+      "Lugar":190,
+      "País/território":"Aruba Aruba (Países Baixos)",
+      "Cidade capital":"Oranjestad",
+      "População da cidade":29998
+   },
+   {
+      "Lugar":191,
+      "País/território":"Seychelles Seicheles",
+      "Cidade capital":"Vitória",
+      "População da cidade":29298
+   },
+   {
+      "Lugar":192,
+      "País/território":"Gibraltar Gibraltar (Reino Unido)",
+      "Cidade capital":"Gibraltar",
+      "População da cidade":29286
+   },
+   {
+      "Lugar":193,
+      "País/território":"Jersey Jérsia (Reino Unido)",
+      "Cidade capital":"Saint Helier",
+      "População da cidade":28380
+   },
+   {
+      "Lugar":194,
+      "País/território":"Brunei Brunei",
+      "Cidade capital":"Bandar Seri Begauã",
+      "População da cidade":28135
+   },
+   {
+      "Lugar":195,
+      "País/território":"Ilhas Cayman Ilhas Caimão (Reino Unido)",
+      "Cidade capital":"George Town",
+      "População da cidade":26798
+   },
+   {
+      "Lugar":196,
+      "País/território":"Ilha de Man Ilha de Man (Reino Unido)",
+      "Cidade capital":"Douglas",
+      "População da cidade":26600
+   },
+   {
+      "Lugar":197,
+      "País/território":"Polinésia Francesa Polinésia Francesa (França)",
+      "Cidade capital":"Papeete",
+      "População da cidade":26200
+   },
+   {
+      "Lugar":198,
+      "País/território":"Estado da Palestina Cisjordânia (Israel/ANP)",
+      "Cidade capital":"Ramallah (de facto)",
+      "População da cidade":25500
+   },
+   {
+      "Lugar":199,
+      "País/território":"Ilhas Marshall Ilhas Marechal",
+      "Cidade capital":"Majuro",
+      "População da cidade":25400
+   },
+   {
+      "Lugar":200,
+      "País/território":"Andorra Andorra",
+      "Cidade capital":"Andorra-a-Velha",
+      "População da cidade":22884
+   },
+   {
+      "Lugar":201,
+      "País/território":"Antígua e Barbuda Antiga e Barbuda",
+      "Cidade capital":"Saint John's",
+      "População da cidade":22679
+   },
+   {
+      "Lugar":202,
+      "País/território":"Tonga Tonga",
+      "Cidade capital":"Nucualofa",
+      "População da cidade":22400
+   },
+   {
+      "Lugar":203,
+      "País/território":"Ilhas Faroe Ilhas Féroe (Dinamarca)",
+      "Cidade capital":"Tórshavn",
+      "População da cidade":18573
+   },
+   {
+      "Lugar":204,
+      "País/território":"Guernsey Guérnesei (Reino Unido)",
+      "Cidade capital":"Saint Peter Port",
+      "População da cidade":16701
+   },
+   {
+      "Lugar":205,
+      "País/território":"São Vicente e Granadinas São Vicente e Granadinas",
+      "Cidade capital":"Kingstown",
+      "População da cidade":16031
+   },
+   {
+      "Lugar":206,
+      "País/território":"Gronelândia Gronelândia (Dinamarca)",
+      "Cidade capital":"Nuuk (Godthåb)",
+      "População da cidade":15469
+   },
+   {
+      "Lugar":207,
+      "País/território":"Ossétia do Sul Ossétia do Sul",
+      "Cidade capital":"Tskhinvali",
+      "População da cidade":15000
+   },
+   {
+      "Lugar":208,
+      "País/território":"Dominica Dominica",
+      "Cidade capital":"Roseau",
+      "População da cidade":14847
+   },
+   {
+      "Lugar":209,
+      "País/território":"São Cristóvão e Nevis São Cristóvão e Neves",
+      "Cidade capital":"Basseterre",
+      "População da cidade":13043
+   },
+   {
+      "Lugar":210,
+      "País/território":"Belize Belize",
+      "Cidade capital":"Belmopã",
+      "População da cidade":12300
+   },
+   {
+      "Lugar":211,
+      "País/território":"Ilhas Åland Ilhas Alanda (Finlândia)",
+      "Cidade capital":"Mariehamn",
+      "População da cidade":11161
+   },
+   {
+      "Lugar":212,
+      "País/território":"Ilhas Virgens Americanas Ilhas Virgens dos Estados Unidos (EUA)",
+      "Cidade capital":"Charlotte Amalie",
+      "População da cidade":10817
+   },
+   {
+      "Lugar":213,
+      "País/território":"Estados Federados da Micronésia Estados Federados da Micronésia",
+      "Cidade capital":"Palikir",
+      "População da cidade":9900
+   },
+   {
+      "Lugar":214,
+      "País/território":"Ilhas Virgens Britânicas Ilhas Virgens Britânicas (Reino Unido)",
+      "Cidade capital":"Road Town",
+      "População da cidade":9400
+   },
+   {
+      "Lugar":215,
+      "País/território":"Granada Granada",
+      "Cidade capital":"São Jorge",
+      "População da cidade":7500
+   },
+   {
+      "Lugar":216,
+      "País/território":"Malta Malta",
+      "Cidade capital":"Valeta",
+      "População da cidade":6315
+   },
+   {
+      "Lugar":217,
+      "País/território":"França São Martinho (França)",
+      "Cidade capital":"Marigot",
+      "População da cidade":5700
+   },
+   {
+      "Lugar":218,
+      "País/território":"Saint-Pierre e Miquelon São Pedro e Miquelão (França)",
+      "Cidade capital":"São Pedro",
+      "População da cidade":5509
+   },
+   {
+      "Lugar":219,
+      "País/território":"Ilhas Cook Ilhas Cook (Nova Zelândia)",
+      "Cidade capital":"Avarua",
+      "População da cidade":5445
+   },
+   {
+      "Lugar":220,
+      "País/território":"Liechtenstein Listenstaine",
+      "Cidade capital":"Vaduz",
+      "População da cidade":5248
+   },
+   {
+      "Lugar":221,
+      "País/território":"San Marino São Marinho",
+      "Cidade capital":"Cidade de São Marinho",
+      "População da cidade":4493
+   },
+   {
+      "Lugar":222,
+      "País/território":"Tuvalu Tuvalu",
+      "Cidade capital":"Funafuti",
+      "População da cidade":4492
+   },
+   {
+      "Lugar":223,
+      "País/território":"Ilhas Turks e Caicos Ilhas Turcas e Caicos (Reino Unido)",
+      "Cidade capital":"Cockburn Town",
+      "População da cidade":3700
+   },
+   {
+      "Lugar":224,
+      "País/território":"França São Bartolomeu (França)",
+      "Cidade capital":"Gustávia",
+      "População da cidade":3000
+   },
+   {
+      "Lugar":225,
+      "País/território":"Ilhas Malvinas Ilhas Malvinas (Falkland) (Reino Unido)",
+      "Cidade capital":"Stanley",
+      "População da cidade":2115
+   },
+   {
+      "Lugar":226,
+      "País/território":"Noruega Esvalbarda (Noruega)",
+      "Cidade capital":"Longyearbyen",
+      "População da cidade":2075
+   },
+   {
+      "Lugar":227,
+      "País/território":"Ilha Christmas Ilha do Natal (Austrália)",
+      "Cidade capital":"Flying Fish Cove",
+      "População da cidade":1493
+   },
+   {
+      "Lugar":228,
+      "País/território":"São Martinho (Antilhas Neerlandesas) São Martinho (Países Baixos)",
+      "Cidade capital":"Philipsburg",
+      "População da cidade":1338
+   },
+   {
+      "Lugar":229,
+      "País/território":"Wallis e Futuna Wallis e Futuna (França)",
+      "Cidade capital":"Mata-Utu",
+      "População da cidade":1191
+   },
+   {
+      "Lugar":230,
+      "País/território":"Anguilla Anguila (Reino Unido)",
+      "Cidade capital":"The Valley",
+      "População da cidade":1169
+   },
+   {
+      "Lugar":231,
+      "País/território":"Nauru Nauru",
+      "Cidade capital":"Yaren (de facto)",
+      "População da cidade":1100
+   },
+   {
+      "Lugar":232,
+      "País/território":"Guam Guame (EUA)",
+      "Cidade capital":"Agana",
+      "População da cidade":1100
+   },
+   {
+      "Lugar":233,
+      "País/território":"Montserrat Monserrate (Reino Unido)",
+      "Cidade capital":"Brades (de facto)",
+      "População da cidade":1000
+   },
+   {
+      "Lugar":234,
+      "País/território":"Bermudas Bermuda (Reino Unido)",
+      "Cidade capital":"Hamilton",
+      "População da cidade":969
+   },
+   {
+      "Lugar":235,
+      "País/território":"Ilha Norfolk Ilha Norfolk (Austrália)",
+      "Cidade capital":"Kingston",
+      "População da cidade":880
+   },
+   {
+      "Lugar":236,
+      "País/território":"Vaticano Cidade do Vaticano",
+      "Cidade capital":"Cidade do Vaticano",
+      "População da cidade":826
+   },
+   {
+      "Lugar":237,
+      "País/território":"Santa Helena (território) (Reino Unido)",
+      "Cidade capital":"Jamestown",
+      "População da cidade":714
+   },
+   {
+      "Lugar":238,
+      "País/território":"Niue Niue (Nova Zelândia)",
+      "Cidade capital":"Alofi",
+      "População da cidade":616
+   },
+   {
+      "Lugar":239,
+      "País/território":"Tokelau Toquelau (Nova Zelândia)",
+      "Cidade capital":"Nukunonu (de facto)",
+      "População da cidade":426
+   },
+   {
+      "Lugar":240,
+      "País/território":"Palau Palau",
+      "Cidade capital":"Ngerulmud",
+      "População da cidade":391
+   },
+   {
+      "Lugar":241,
+      "País/território":"Ilhas Cocos (Keeling) Ilhas Cocos (Keeling) (Austrália)",
+      "Cidade capital":"Ilha Ocidental",
+      "População da cidade":120
+   },
+   {
+      "Lugar":242,
+      "País/território":"Ilhas Pitcairn (Reino Unido)",
+      "Cidade capital":"Adamstown",
+      "População da cidade":45
+   },
+   {
+      "Lugar":243,
+      "País/território":"Ilhas Geórgia do Sul e Sandwich do Sul Ilhas Geórgia do Sul e Sanduíche do Sul (Reino Unido)",
+      "Cidade capital":"King Edward Point",
+      "População da cidade":18
+   }
+]

@@ -1,0 +1,40 @@
+body {
+    padding-top: 70px;
+    
+}
+
+#pesquisa{
+	padding-bottom: 30px;
+}
+
+#pesquisa input{
+	padding-left: 10px;
+}
+
+#head_lista span{
+    width: 25%;
+    float: left;
+    padding-bottom: 20px;
+    border-bottom: 1px solid;
+    margin-bottom: 20px;
+}
+
+#lista{
+	list-style: none;
+	height: auto;
+}
+
+#lista .list-item{
+	width: 100%;
+	display: inline-block;
+}
+
+#lista li p{
+	width: 25%;
+	float: left;
+}
+
+.pagination li {
+  display:inline-block;
+  padding:5px;
+}
